@@ -4798,5 +4798,181 @@
       }
     ],
     "notes": "Search result displays a self-reported appointment; direct profile access was blocked. Exact term and ongoing role remain unverified."
+  },
+  {
+    "id": "dance-club--samarth-jain",
+    "name": "Samarth Jain",
+    "organisation_id": "dance-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "self_report_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/samarth-jain-054b5a356",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported role in education activities; precise term and ongoing status unconfirmed."
+  },
+  {
+    "id": "music-club--vedant-tiwari",
+    "name": "Vedant Tiwari",
+    "organisation_id": "music-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "self_report_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/vedant-tiwari-649399254",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported role in education activities; precise term and ongoing status unconfirmed."
+  },
+  {
+    "id": "music-club--shivanshu-jaiswara",
+    "name": "Shivanshu Jaiswara",
+    "organisation_id": "music-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "self_report_former_term_unknown",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/shivanshu-jaiswara-58a342314",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Profile explicitly says ex-secretary; exact term not provided."
+  },
+  {
+    "id": "hindi-sahitya-sabha--aalok-tejas",
+    "name": "Aalok Tejas",
+    "organisation_id": "hindi-sahitya-sabha",
+    "role": "Secretary",
+    "term": "2025–present (self-reported)",
+    "verification_status": "self_report_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/aaloktejas",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Profile reports April 2025 to present, but club role may not have been updated. Current status unconfirmed."
+  },
+  {
+    "id": "meraki-culinary-arts--shaurya-johari",
+    "name": "Shaurya Johari",
+    "organisation_id": "meraki-culinary-arts",
+    "role": "Secretary",
+    "term": "2024–present (self-reported)",
+    "verification_status": "self_report_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/shaurya-johari-23b00a280",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Profile reports June 2024 to present; current status unconfirmed and profile may be stale."
+  },
+  {
+    "id": "english-literary-society--shaurya-johari",
+    "name": "Shaurya Johari",
+    "organisation_id": "english-literary-society",
+    "role": "Secretary",
+    "term": "2024–present (self-reported)",
+    "verification_status": "self_report_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/shaurya-johari-23b00a280",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Profile reports April 2024 to present; current status unconfirmed and profile may be stale."
+  },
+  {
+    "id": "debate-and-discussion-society--anisha-nanda",
+    "name": "Anisha Nanda",
+    "organisation_id": "debate-and-discussion-society",
+    "role": "Secretary",
+    "term": "2024–2025",
+    "verification_status": "past_term_self_reported",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/anisha-nanda-a10bba27b",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported historical term."
+  },
+  {
+    "id": "english-literary-society--anisha-nanda",
+    "name": "Anisha Nanda",
+    "organisation_id": "english-literary-society",
+    "role": "Secretary",
+    "term": "2024–2025",
+    "verification_status": "past_term_self_reported",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/anisha-nanda-a10bba27b",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported historical term."
+  },
+  {
+    "id": "humour-house--aryaman-oberoi",
+    "name": "Aryaman Oberoi",
+    "organisation_id": "humour-house",
+    "role": "Secretary",
+    "term": "May 2025–May 2026",
+    "verification_status": "past_term_self_reported",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/aryamanoberoi",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported historical term."
+  },
+  {
+    "id": "photography-club--virendra-gunjal",
+    "name": "Virendra Gunjal",
+    "organisation_id": "photography-club",
+    "role": "Secretary",
+    "term": "Mar 2025–Apr 2026",
+    "verification_status": "past_term_self_reported",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/virendragunjal",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Self-reported historical term."
+  },
+  {
+    "id": "student-film-society--yashwant-devatwal",
+    "name": "Yashwant Devatwal",
+    "organisation_id": "student-film-society",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "historical_source_term_unknown",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/es/data/ES_PlacementBrochure_2023-24_v13.pdf",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Listed in a 2023–24 placement brochure as a past role; exact term unknown."
   }
 ]
