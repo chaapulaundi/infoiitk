@@ -27,7 +27,16 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "sntsecy@iitk.ac.in",
+        "source_url": "https://www.iitk.ac.in/astronomy-club",
+        "checked_on": "2026-11-03",
+        "notes": "Council secretary address listed by IIT Kanpur as a contact route for Astronomy Club; verify periodically."
+      }
+    ]
   },
   {
     "id": "brain-and-cognitive-science-club",
@@ -102,7 +111,16 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://linktr.ee/pclubiitk",
+        "source_url": "https://linktr.ee/pclubiitk",
+        "checked_on": "2026-11-03",
+        "notes": "Club link hub includes social and email links."
+      }
+    ]
   },
   {
     "id": "robotics-club",
@@ -310,9 +328,22 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Cultural listing may be outdated; confirm current status.",
+    "contact_routes": [
+      {
+        "type": "contact_page",
+        "value": "https://www.iitk.ac.in/bookclub/contact.html",
+        "source_url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03",
+        "notes": "The page provides a contact form."
+      }
+    ]
   },
   {
     "id": "dance-club",
@@ -508,5 +539,209 @@
       }
     ],
     "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "meraki-culinary-arts",
+    "name": "Meraki Culinary Arts",
+    "category": "cultural",
+    "organisation_type": "club",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "noor-fashion-and-lifestyle-club",
+    "name": "Noor Fashion and Lifestyle Club",
+    "category": "cultural",
+    "organisation_type": "club",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "students-gymkhana",
+    "name": "Students' Gymkhana",
+    "category": "others",
+    "organisation_type": "student government",
+    "council": null,
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "science-and-technology-council",
+    "name": "Science and Technology Council",
+    "category": "snt",
+    "organisation_type": "council",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "media-and-cultural-council",
+    "name": "Media and Cultural Council",
+    "category": "cultural",
+    "organisation_type": "council",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "academics-and-career-council",
+    "name": "Academics and Career Council",
+    "category": "others",
+    "organisation_type": "council",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "UG and PG representatives are listed separately; conflicting older AnC team page requires review.",
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "ug_anc@iitk.ac.in",
+        "source_url": "https://anc-website-blond.vercel.app/team",
+        "checked_on": "2026-11-03",
+        "notes": "UG council address on an undated team page; verify current ownership."
+      }
+    ]
+  },
+  {
+    "id": "games-and-sports-council",
+    "name": "Games and Sports Council",
+    "category": "others",
+    "organisation_type": "council",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "students-senate",
+    "name": "Students' Senate",
+    "category": "others",
+    "organisation_type": "student government",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "product-club",
+    "name": "Product Club",
+    "category": "others",
+    "organisation_type": "club",
+    "council": "Academics and Career Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://anc-website-blond.vercel.app/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "The AnC team listing has no term; verify current roles."
+  },
+  {
+    "id": "indian-game-theory-society",
+    "name": "Indian Game Theory Society",
+    "category": "others",
+    "organisation_type": "society",
+    "council": "Academics and Career Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://anc-website-blond.vercel.app/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Council affiliation and current status require further confirmation."
+  },
+  {
+    "id": "antaragni",
+    "name": "Antaragni",
+    "category": "cultural",
+    "organisation_type": "festival",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source describes 2026 edition; team must not be assumed current for later editions."
+  },
+  {
+    "id": "techkriti",
+    "name": "Techkriti",
+    "category": "snt",
+    "organisation_type": "festival",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "udghosh",
+    "name": "Udghosh",
+    "category": "others",
+    "organisation_type": "festival",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
   }
 ]
