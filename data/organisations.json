@@ -1078,6 +1078,10 @@
       {
         "url": "https://linktr.ee/JoSAA_IITK",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://ec-iitk-web.web.app/",
+        "checked_on": "2026-11-03"
       }
     ],
     "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
@@ -1088,6 +1092,13 @@
         "source_url": "https://linktr.ee/JoSAA_IITK",
         "checked_on": "2026-11-03",
         "notes": "Linked by JoSAA campus directory."
+      },
+      {
+        "type": "email",
+        "value": "ec_sg@iitk.ac.in",
+        "source_url": "https://ec-iitk-web.web.app/",
+        "checked_on": "2026-11-03",
+        "notes": "Published on 2025–26 election page; confirm ongoing availability."
       }
     ]
   },
@@ -1102,6 +1113,14 @@
       {
         "url": "https://linktr.ee/JoSAA_IITK",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://www.ecelliitk.org/",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://www.ecelliitk.org/bootcamp/",
+        "checked_on": "2026-11-03"
       }
     ],
     "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
@@ -1112,6 +1131,12 @@
         "source_url": "https://linktr.ee/JoSAA_IITK",
         "checked_on": "2026-11-03",
         "notes": "Linked by JoSAA campus directory."
+      },
+      {
+        "type": "email",
+        "value": "ecell@iitk.ac.in",
+        "source_url": "https://www.ecelliitk.org/bootcamp/",
+        "checked_on": "2026-11-03"
       }
     ]
   },
