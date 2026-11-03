@@ -1442,5 +1442,2894 @@
       }
     ],
     "notes": "Club announced the end of this tenure; not a current-contact lead."
+  },
+  {
+    "id": "descon-society--jayendra-singh",
+    "name": "Jayendra Singh",
+    "organisation_id": "descon-society",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/news-post-2/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "descon-society--pampana-sashank",
+    "name": "Pampana Sashank",
+    "organisation_id": "descon-society",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/news-post-2/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-consulting-group--piyush-verma",
+    "name": "Piyush Verma",
+    "organisation_id": "iitk-consulting-group",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/icg/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-consulting-group--anubha-jaiswal",
+    "name": "Anubha Jaiswal",
+    "organisation_id": "iitk-consulting-group",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/icg/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-consulting-group--mannat-shrivastav",
+    "name": "Mannat Shrivastav",
+    "organisation_id": "iitk-consulting-group",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/icg/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "scimathsoc--kshitij-jain",
+    "name": "Kshitij Jain",
+    "organisation_id": "scimathsoc",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/scimathsoc/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "scimathsoc--aarya-bhatt",
+    "name": "Aarya Bhatt",
+    "organisation_id": "scimathsoc",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/scimathsoc/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "scimathsoc--saransh-saluja",
+    "name": "Saransh Saluja",
+    "organisation_id": "scimathsoc",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/scimathsoc/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "scimathsoc--vinayak-chandra-srivastava",
+    "name": "Vinayak Chandra Srivastava",
+    "organisation_id": "scimathsoc",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/societies/scimathsoc/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "aerial-robotics--soumya-jhunjhunwala",
+    "name": "Soumya Jhunjhunwala",
+    "organisation_id": "aerial-robotics",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/aerial/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "aerial-robotics--mansoju-vivekananda",
+    "name": "Mansoju Vivekananda",
+    "organisation_id": "aerial-robotics",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/aerial/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "auv--ayush-muttepawar",
+    "name": "Ayush Muttepawar",
+    "organisation_id": "auv",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-6/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "auv--arnav-gupta",
+    "name": "Arnav Gupta",
+    "organisation_id": "auv",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-6/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "auv--harikrishna-s",
+    "name": "Harikrishna S",
+    "organisation_id": "auv",
+    "role": "Team Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-6/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "equipe-de-robotique-autonome--aayush-gajeshwar",
+    "name": "Aayush Gajeshwar",
+    "organisation_id": "equipe-de-robotique-autonome",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-5/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "equipe-de-robotique-autonome--arnab-datta",
+    "name": "Arnab Datta",
+    "organisation_id": "equipe-de-robotique-autonome",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-5/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "equipe-de-robotique-autonome--sushil-krishna-k",
+    "name": "Sushil Krishna K",
+    "organisation_id": "equipe-de-robotique-autonome",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-5/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-motorsports--adhitya-st",
+    "name": "Adhitya ST",
+    "organisation_id": "iitk-motorsports",
+    "role": "Team Captain",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-3/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-motorsports--kanhaiya-kumar",
+    "name": "Kanhaiya Kumar",
+    "organisation_id": "iitk-motorsports",
+    "role": "Electrical Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-3/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-motorsports--adithya-vishnu",
+    "name": "Adithya Vishnu",
+    "organisation_id": "iitk-motorsports",
+    "role": "Manufacturing Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-3/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "iitk-raset--aarav-mehta",
+    "name": "Aarav Mehta",
+    "organisation_id": "iitk-raset",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-1/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "team-humanoid--krishna-sharma",
+    "name": "Krishna Sharma",
+    "organisation_id": "team-humanoid",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-4/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "team-humanoid--yash-kumar",
+    "name": "Yash Kumar",
+    "organisation_id": "team-humanoid",
+    "role": "Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/teams/teams-post-4/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "bis-student-chapter--chaitanya-vishnoi",
+    "name": "Chaitanya Vishnoi",
+    "organisation_id": "bis-student-chapter",
+    "role": "Overall Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/hobby-groups/bis/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "bis-student-chapter--pushpender",
+    "name": "Pushpender",
+    "organisation_id": "bis-student-chapter",
+    "role": "Overall Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/hobby-groups/bis/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "speed-cubing--shubham-joshi",
+    "name": "Shubham Joshi",
+    "organisation_id": "speed-cubing",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/hobby-groups/speedcubing/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "speed-cubing--jeetendar-meena",
+    "name": "Jeetendar Meena",
+    "organisation_id": "speed-cubing",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/hobby-groups/speedcubing/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "speed-cubing--aditya-krishna",
+    "name": "Aditya Krishna",
+    "organisation_id": "speed-cubing",
+    "role": "Leader",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/hobby-groups/speedcubing/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Source does not state a term; verify role before treating it as current."
+  },
+  {
+    "id": "community-welfare-cell--adarsh-kumar",
+    "name": "Adarsh Kumar",
+    "organisation_id": "community-welfare-cell",
+    "role": "Overall Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--divyansh-agarwal",
+    "name": "Divyansh Agarwal",
+    "organisation_id": "community-welfare-cell",
+    "role": "Overall Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--abhishek-prakash",
+    "name": "Abhishek Prakash",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Web & Design)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--manasvi-jain",
+    "name": "Manasvi Jain",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Finance)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--nishita-gupta",
+    "name": "Nishita Gupta",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Events)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--anshu-saini",
+    "name": "Anshu Saini",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Prakriti)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--divya-gupta",
+    "name": "Divya Gupta",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Unmukt)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--akshat-jain",
+    "name": "Akshat Jain",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Raktarpan)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--akshay-choudhary",
+    "name": "Akshay Choudhary",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Prayas)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--abhimanyu-jain",
+    "name": "Abhimanyu Jain",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Prayas)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--harsh-kumar-singh",
+    "name": "Harsh Kumar Singh",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Vivekananda Samiti)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--sajal-jain",
+    "name": "Sajal Jain",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Vivekananda Samiti)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "community-welfare-cell--sumit-hooda",
+    "name": "Sumit Hooda",
+    "organisation_id": "community-welfare-cell",
+    "role": "Manager (Vivekananda Samiti)",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on a CWC team page with 2024 copyright; current term unconfirmed."
+  },
+  {
+    "id": "students-placement-office--piyush-singal",
+    "name": "Piyush Singal",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "psingal23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 70822 98297",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--devesh-choudhury",
+    "name": "Devesh Choudhury",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "deveshc23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 80186 05330",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--soumyadip-shyam",
+    "name": "Soumyadip Shyam",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "soumadips23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 89007 61680",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--vaibhav-itauriya",
+    "name": "Vaibhav Itauriya",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "vaibhav23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 91251 56329",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--harsh-gour",
+    "name": "Harsh Gour",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "harshgour23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 89822 04383",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--kalva-mahendhar-yadav",
+    "name": "Kalva Mahendhar Yadav",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "mahendharyk25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 63030 58242",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shubham-kumar-mishra",
+    "name": "Shubham Kumar Mishra",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "shubhamkm25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 79839 35040",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bhairavi-shivajirao-salunke",
+    "name": "Bhairavi Shivajirao Salunke",
+    "organisation_id": "students-placement-office",
+    "role": "Overall Placement Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bhairaviss25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 77199 90900",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--aadi-jain",
+    "name": "Aadi Jain",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "aadijain24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8800210197",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--aditya-durgapal",
+    "name": "Aditya Durgapal",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "adityan24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9321643883",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--akash-kumar",
+    "name": "Akash Kumar",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "akashr24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8935965544",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--arjun-singla",
+    "name": "Arjun Singla",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "arjuns24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8360755662",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--buddha-bhusan-barua",
+    "name": "Buddha Bhusan Barua",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "buddhab24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9229701335",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--d-sahasra",
+    "name": "D Sahasra",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "dsahasra24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9110347533",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--haryashva-gupta",
+    "name": "Haryashva Gupta",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "haryashvag24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9452141455",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--karan-chauhan",
+    "name": "Karan Chauhan",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "karanc24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7678217530",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--kaushik-kumar",
+    "name": "Kaushik Kumar",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "kaushik24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8434108608",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--khushi-sharma",
+    "name": "Khushi Sharma",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "khushis24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7667723918",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--krish-mesariya",
+    "name": "Krish Mesariya",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "kmesariya24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9727273756",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--laukik-krishna-joshi",
+    "name": "Laukik Krishna Joshi",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "krishnaj24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9610714579",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--naivedya-jain",
+    "name": "Naivedya Jain",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "naivedyaj24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7027506075",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--parth-rathi",
+    "name": "Parth Rathi",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "parthr24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8251086260",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--priyanshu-pandey",
+    "name": "Priyanshu Pandey",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "priyanshup24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9263888165",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--ria-agrawal",
+    "name": "Ria Agrawal",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "riaa24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8290441008",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--sanchit-singla",
+    "name": "Sanchit Singla",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "sanchit24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9781357659",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shantanu-chhonkar",
+    "name": "Shantanu Chhonkar",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "shantanu24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9520518594",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--sumit-yadav",
+    "name": "Sumit Yadav",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "sumity24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8882035387",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--tanvi-aggarwal",
+    "name": "Tanvi Aggarwal",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "tanvi24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7827098491",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--tejaswinee-rathore",
+    "name": "Tejaswinee Rathore",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "tejaswinee24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9425094987",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--yash-vardhan-pratihast",
+    "name": "Yash Vardhan Pratihast",
+    "organisation_id": "students-placement-office",
+    "role": "Assistant Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "yashp24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8917524935",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--divyansh-singh",
+    "name": "Divyansh Singh",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Aerospace Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "dsingh25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 6306635810",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--raghav-mehrotra",
+    "name": "Raghav Mehrotra",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Aerospace Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "raghavm25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9305120290",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--vishal-umapati-choudhari",
+    "name": "VISHAL UMAPATI CHOUDHARI",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Aerospace Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "vuchoudhari25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9242778852",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shivam-kumar",
+    "name": "Shivam Kumar",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Biological Sciences and Bioengineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "shivamkur22@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7827119335",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--girish-shivhare",
+    "name": "Girish Shivhare",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Biological Sciences and Bioengineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "gashivhare25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8788259344",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--ayush-verma",
+    "name": "Ayush Verma",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Chemical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "ayushverma25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9889585089",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shashank-chaudhary",
+    "name": "Shashank Chaudhary",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Chemical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "shashankc25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7668741915",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--gaurav",
+    "name": "Gaurav",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Chemistry",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "gaurav25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7082447920",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--sarthak-jayswal",
+    "name": "Sarthak Jayswal",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Civil Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "sarthakj25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9727550659",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--abhishek-dyavershetti",
+    "name": "Abhishek Dyavershetti",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Civil Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "abhisheksd25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9145613970",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--manpreeth-m-p",
+    "name": "Manpreeth M P",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Civil Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "manpreethm25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8590453237",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--adithya-venkata-rama-mohan-adiraju",
+    "name": "Adithya Venkata Rama Mohan Adiraju",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Cognitive Science",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "avrama25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9390098909",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--kunal-jolly-saxena",
+    "name": "Kunal Jolly Saxena",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Computer Science and Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "Kjsaxena25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 6266360324",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--aryan-arora",
+    "name": "Aryan Arora",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Computer Science and Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "aryana25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8287467960",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bhargav-ram-chodabatula",
+    "name": "Bhargav Ram Chodabatula",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Design",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bhargavramc25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8925112368",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--rupabrata-bhattacharya",
+    "name": "Rupabrata Bhattacharya",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Design",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "rupabrata25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9173166262",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--paritosh-bhattacharyya",
+    "name": "Paritosh Bhattacharyya",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Earth Science",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "pcharyya25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 6295471168",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--mridul-anand",
+    "name": "Mridul Anand",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Earth Science",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "mridula25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9336851764",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shohom-de",
+    "name": "Shohom De",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Economics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "shohomde23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8981423221",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--mayank-rathi",
+    "name": "Mayank Rathi",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Economics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "mayankr25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9333996277",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--purwansh-sahu",
+    "name": "Purwansh Sahu",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Electrical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "purwansh25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9399147060",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shambhavi-pandey",
+    "name": "Shambhavi Pandey",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Electrical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "spandey25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8090907429",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--aryan-sehgal",
+    "name": "Aryan Sehgal",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Electrical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "Aryans25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8278886900",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--nikhil-dudeja",
+    "name": "Nikhil Dudeja",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Industrial and Management Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "nikhild25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9149036209",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--parth-raj-singh",
+    "name": "Parth Raj Singh",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Industrial and Management Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "parthrs25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9426694450",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--aakrit-raj",
+    "name": "Aakrit Raj",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Kotak School of Sustainability",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "aakritraj25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8953729992",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bhavi-chaturvedi",
+    "name": "Bhavi Chaturvedi",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Materials Science and Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bhavic25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9461133006",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--chetan-lavhe",
+    "name": "Chetan Lavhe",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Materials Science and Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "blchetan25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9763548364",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--sourav-sharma",
+    "name": "Sourav Sharma",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Materials Science Program",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "sharmas25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9372876036",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--ayushi-agarwal",
+    "name": "Ayushi Agarwal",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Mathematics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "Aagrarwal25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7355200069",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--neel-jadia",
+    "name": "Neel Jadia",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — MATHEMATICS & SCIENTIFIC COMPUTING",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "neeljadia23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9594592592",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bhupendra-singh-m-solanki",
+    "name": "Bhupendra singh M Solanki",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Mechanical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bmsolanki25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9408117716",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--atharva-ghate",
+    "name": "Atharva Ghate",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Mechanical Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "ajghate25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9594056528",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bittu-pandey",
+    "name": "Bittu Pandey",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Photonics Science Engineering and Laser Technology",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bittup25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 6207675182",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--vikash-kumar",
+    "name": "Vikash Kumar",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Physics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "kvikash25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 7004644496",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--mohd-intakhab-alam",
+    "name": "Mohd Intakhab Alam",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Space, Planetary & Astronomical Sciences & Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "intakhab25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8448138448",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--kriti-maheshwari",
+    "name": "Kriti Maheshwari",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Statistics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "kmaheshwari25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9027574782",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--ayush-kundu",
+    "name": "Ayush Kundu",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Statistics",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "ayushkundu25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9674016704",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--arihant-satpathy",
+    "name": "Arihant Satpathy",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Statistics and Data Science",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "arihants23@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9831577605",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--devansh",
+    "name": "Devansh",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Sustainable Energy Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "devansh25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 8957924231",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--bhavesh-inani",
+    "name": "Bhavesh Inani",
+    "organisation_id": "students-placement-office",
+    "role": "Department Placement Coordinator — Sustainable Energy Engineering",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bhaveshi25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 6350490894",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--muragesh-nyamagoud",
+    "name": "Muragesh Nyamagoud",
+    "organisation_id": "students-placement-office",
+    "role": "Web Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "muragesh24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 93534 66456",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--ujjwal-prakash",
+    "name": "Ujjwal Prakash",
+    "organisation_id": "students-placement-office",
+    "role": "Web Head",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "ujjwal24@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 77639 80774",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--raj-choudhary",
+    "name": "Raj Choudhary",
+    "organisation_id": "students-placement-office",
+    "role": "Web Executive",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "rajc25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9461772855",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--vanshika-singh",
+    "name": "Vanshika Singh",
+    "organisation_id": "students-placement-office",
+    "role": "Web Executive",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "vanshikas25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9755103696",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--shubh-gupta",
+    "name": "Shubh Gupta",
+    "organisation_id": "students-placement-office",
+    "role": "Web Executive",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "Shubhgupta25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 9755745600",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
+  },
+  {
+    "id": "students-placement-office--vineet-singh",
+    "name": "Vineet Singh",
+    "organisation_id": "students-placement-office",
+    "role": "Web Executive",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "vineets25@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "type": "phone",
+        "value": "(+91) 92594 81955",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed on the placement office's undated team page. Contact is source-listed; term and ongoing availability have not been independently verified."
   }
 ]
