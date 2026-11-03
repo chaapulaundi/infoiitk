@@ -1,0 +1,512 @@
+[
+  {
+    "id": "aeromodelling-club",
+    "name": "Aeromodelling Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "astronomy-club",
+    "name": "Astronomy Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "brain-and-cognitive-science-club",
+    "name": "Brain and Cognitive Science Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/bcs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "electronics-club",
+    "name": "Electronics Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "finance-and-analytics-club",
+    "name": "Finance and Analytics Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "game-development-club",
+    "name": "Game Development Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "programming-club",
+    "name": "Programming Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "robotics-club",
+    "name": "Robotics Club",
+    "category": "snt",
+    "organisation_type": "club",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/clubs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "descon-society",
+    "name": "DesCon Society",
+    "category": "snt",
+    "organisation_type": "society",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/societies/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "iitk-consulting-group",
+    "name": "IITK Consulting Group",
+    "category": "snt",
+    "organisation_type": "society",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/societies/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "scimathsoc",
+    "name": "SciMathSoc",
+    "category": "snt",
+    "organisation_type": "society",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/societies/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "aerial-robotics",
+    "name": "Aerial Robotics",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "auv",
+    "name": "AUV",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "equipe-de-robotique-autonome",
+    "name": "Equipe de Robotique Autonome",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "iitk-motorsports",
+    "name": "IITK Motorsports",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "iitk-raset",
+    "name": "IITK RaSET",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "team-humanoid",
+    "name": "Team Humanoid",
+    "category": "snt",
+    "organisation_type": "team",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/teams/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bis-student-chapter",
+    "name": "BIS Student Chapter",
+    "category": "snt",
+    "organisation_type": "hobby group",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/hobby-groups/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "speed-cubing",
+    "name": "Speed Cubing",
+    "category": "snt",
+    "organisation_type": "hobby group",
+    "council": "Science and Technology Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/categories/hobby-groups/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "anime-society",
+    "name": "Anime Society",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "book-club",
+    "name": "Book Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "dance-club",
+    "name": "Dance Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "debate-and-discussion-society",
+    "name": "Debate and Discussion Society",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "design-and-animation-club",
+    "name": "Design and Animation Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "dramatics-club",
+    "name": "Dramatics Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "english-literary-society",
+    "name": "English Literary Society",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "fine-arts-club",
+    "name": "Fine Arts Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "film-club",
+    "name": "Film Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "hindi-sahitya-sabha",
+    "name": "Hindi Sahitya Sabha",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "humour-house",
+    "name": "Humour House",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "music-club",
+    "name": "Music Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "photography-club",
+    "name": "Photography Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "quiz-club",
+    "name": "Quiz Club",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  },
+  {
+    "id": "student-film-society",
+    "name": "Student Film Society",
+    "category": "cultural",
+    "organisation_type": "club or society",
+    "council": "Media and Cultural Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://mnciitk.github.io/club.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Cultural listing may be outdated; confirm current status."
+  }
+]
