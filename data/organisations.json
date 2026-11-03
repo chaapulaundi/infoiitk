@@ -684,6 +684,14 @@
       {
         "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
         "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://hindisahityasabha.in/team/",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://iitk.ac.in/shivani-centre/assets/data/jagriti-vol4-issue2.pdf",
+        "checked_on": "2026-11-04"
       }
     ],
     "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
@@ -701,6 +709,13 @@
         "source_url": "https://linktr.ee/JoSAA_IITK",
         "checked_on": "2026-11-04",
         "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      },
+      {
+        "type": "email",
+        "value": "hindisahityasabha.iitk@gmail.com",
+        "source_url": "https://hindisahityasabha.in/about/",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the Sabha website; present mailbox ownership is unconfirmed."
       }
     ]
   },
