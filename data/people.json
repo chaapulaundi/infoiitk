@@ -1,0 +1,402 @@
+[
+  {
+    "id": "astronomy-club--harpuneet-singh",
+    "name": "Harpuneet Singh",
+    "organisation_id": "astronomy-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/astronomyclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "astronomy-club--aman-pal",
+    "name": "Aman Pal",
+    "organisation_id": "astronomy-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/astronomyclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "astronomy-club--mayank-agarwal",
+    "name": "Mayank Agarwal",
+    "organisation_id": "astronomy-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/astronomyclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "programming-club--aditya-sai-vemparala",
+    "name": "Aditya Sai Vemparala",
+    "organisation_id": "programming-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/programmingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "programming-club--parth-patil",
+    "name": "Parth Patil",
+    "organisation_id": "programming-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/programmingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "programming-club--suvan-arora",
+    "name": "Suvan Arora",
+    "organisation_id": "programming-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/programmingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "programming-club--ketan-agarwal",
+    "name": "Ketan Agarwal",
+    "organisation_id": "programming-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/programmingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "electronics-club--arushi-kondaskar",
+    "name": "Arushi Kondaskar",
+    "organisation_id": "electronics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "electronics-club--aashutosh-kushwaha",
+    "name": "Aashutosh Kushwaha",
+    "organisation_id": "electronics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "electronics-club--sahil-agarwal",
+    "name": "Sahil Agarwal",
+    "organisation_id": "electronics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "electronics-club--lakshya-gupta",
+    "name": "Lakshya Gupta",
+    "organisation_id": "electronics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "brain-and-cognitive-science-club--suhani-bansal",
+    "name": "Suhani Bansal",
+    "organisation_id": "brain-and-cognitive-science-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/bcs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "brain-and-cognitive-science-club--archisman-dhar",
+    "name": "Archisman Dhar",
+    "organisation_id": "brain-and-cognitive-science-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/bcs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "brain-and-cognitive-science-club--dabeet-das",
+    "name": "Dabeet Das",
+    "organisation_id": "brain-and-cognitive-science-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/bcs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "brain-and-cognitive-science-club--vishesh-kumar-singh",
+    "name": "Vishesh Kumar Singh",
+    "organisation_id": "brain-and-cognitive-science-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/bcs/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "aeromodelling-club--nishant-sharma",
+    "name": "Nishant Sharma",
+    "organisation_id": "aeromodelling-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/aeromodellingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "aeromodelling-club--ronit-roy",
+    "name": "Ronit Roy",
+    "organisation_id": "aeromodelling-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/aeromodellingclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "finance-and-analytics-club--sthit-pragye",
+    "name": "Sthit Pragye",
+    "organisation_id": "finance-and-analytics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/financeandanalytics/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "finance-and-analytics-club--archit-rahalkar",
+    "name": "Archit Rahalkar",
+    "organisation_id": "finance-and-analytics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/financeandanalytics/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "finance-and-analytics-club--aarmaan-choudhary",
+    "name": "Aarmaan Choudhary",
+    "organisation_id": "finance-and-analytics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/financeandanalytics/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "finance-and-analytics-club--kritin-khowala",
+    "name": "Kritin Khowala",
+    "organisation_id": "finance-and-analytics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/financeandanalytics/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "game-development-club--anshit-goyal",
+    "name": "Anshit Goyal",
+    "organisation_id": "game-development-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/gamedev/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "game-development-club--abhinav-kashyap",
+    "name": "Abhinav Kashyap",
+    "organisation_id": "game-development-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/gamedev/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "game-development-club--niket-singh",
+    "name": "Niket Singh",
+    "organisation_id": "game-development-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/gamedev/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "game-development-club--atharv-pinjare",
+    "name": "Atharv Pinjare",
+    "organisation_id": "game-development-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/gamedev/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Public email link was obscured in retrieved text; contact not verified."
+  }
+]
