@@ -4766,5 +4766,37 @@
       }
     ],
     "notes": "The page does not explicitly state a term; recheck current role and contact availability."
+  },
+  {
+    "id": "dramatics-club--suryans-kumar-verma",
+    "name": "Suryans Kumar Verma",
+    "organisation_id": "dramatics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "search_snippet_self_report_needs_source_review",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/parasparjapati",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Search result displays a post attributed to Suryans Kumar Verma on another person's activity feed. Original post could not be opened; term, attribution and continued role require verification. The feed owner is not asserted to hold this position."
+  },
+  {
+    "id": "design-and-animation-club--ayush-upadhyay",
+    "name": "Ayush Upadhyay",
+    "organisation_id": "design-and-animation-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "search_snippet_self_report_needs_source_review",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/in/ayush-upadhyay-0a3949379",
+        "checked_on": "2026-11-04"
+      }
+    ],
+    "notes": "Search result displays a self-reported appointment; direct profile access was blocked. Exact term and ongoing role remain unverified."
   }
 ]
