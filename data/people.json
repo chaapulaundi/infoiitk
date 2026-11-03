@@ -107,9 +107,13 @@
       {
         "url": "https://sntiitk.co.in/clubs/programmingclub/",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://www.signalhire.com/profiles/ketan-agarwal/235045731",
+        "checked_on": "2026-11-03"
       }
     ],
-    "notes": "Public email link was obscured in retrieved text; contact not verified."
+    "notes": "Council lists this name and role; a third-party profile reports a role beginning May 2026, but identity match and current term require independent confirmation. Contact not verified."
   },
   {
     "id": "electronics-club--arushi-kondaskar",
@@ -398,5 +402,1045 @@
       }
     ],
     "notes": "Public email link was obscured in retrieved text; contact not verified."
+  },
+  {
+    "id": "students-gymkhana--dhruv-misra",
+    "name": "Dhruv Misra",
+    "organisation_id": "students-gymkhana",
+    "role": "President",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "science-and-technology-council--hardik-agrawal",
+    "name": "Hardik Agrawal",
+    "organisation_id": "science-and-technology-council",
+    "role": "General Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "media-and-cultural-council--lakshay-gupta",
+    "name": "Lakshay Gupta",
+    "organisation_id": "media-and-cultural-council",
+    "role": "General Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "academics-and-career-council--utkarsh-gupta",
+    "name": "Utkarsh Gupta",
+    "organisation_id": "academics-and-career-council",
+    "role": "General Secretary, UG",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "academics-and-career-council--yogesh-ram-gopal-singh",
+    "name": "Yogesh Ram Gopal Singh",
+    "organisation_id": "academics-and-career-council",
+    "role": "General Secretary, PG",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "games-and-sports-council--vaibhav-kadiyan",
+    "name": "Vaibhav Kadiyan",
+    "organisation_id": "games-and-sports-council",
+    "role": "General Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "students-senate--siddhant-jakhotiya",
+    "name": "Siddhant Jakhotiya",
+    "organisation_id": "students-senate",
+    "role": "Chairperson",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://iitk.ac.in/students-gymkhana",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "robotics-club--anurag-patil",
+    "name": "Anurag Patil",
+    "organisation_id": "robotics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/roboticsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "robotics-club--rudraksh-kumawat",
+    "name": "Rudraksh Kumawat",
+    "organisation_id": "robotics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/roboticsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "robotics-club--vishnu-sarathy-b",
+    "name": "Vishnu Sarathy B",
+    "organisation_id": "robotics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/roboticsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "robotics-club--harsh-chandwani",
+    "name": "Harsh Chandwani",
+    "organisation_id": "robotics-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/clubs/roboticsclub/",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--nayana-s-pujar",
+    "name": "Nayana S Pujar",
+    "organisation_id": "book-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--nideesh-h",
+    "name": "Nideesh H",
+    "organisation_id": "book-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--ilika-bera",
+    "name": "Ilika Bera",
+    "organisation_id": "book-club",
+    "role": "Coordinator",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--adrija-baisya",
+    "name": "Adrija Baisya",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--ankur-ghosh",
+    "name": "Ankur Ghosh",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--deepak-bihani",
+    "name": "Deepak Bihani",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--gauri",
+    "name": "Gauri",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--ishan-bajpai",
+    "name": "Ishan Bajpai",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--nupur-sehgal",
+    "name": "Nupur Sehgal",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--rithish-balaji",
+    "name": "Rithish Balaji",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--sathvik-narayanan",
+    "name": "Sathvik Narayanan",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--shubham",
+    "name": "Shubham",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--srinidhi-ale",
+    "name": "Srinidhi Ale",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--srivanth-guntha",
+    "name": "Srivanth Guntha",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--tanishk-meena",
+    "name": "Tanishk Meena",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--vaidehi-shetye",
+    "name": "Vaidehi Shetye",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--vinayak-majumder",
+    "name": "Vinayak Majumder",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--amirtha-sreya",
+    "name": "Amirtha Sreya",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--ananya-iyer",
+    "name": "Ananya Iyer",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--anvayee-tambe",
+    "name": "Anvayee Tambe",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--chethana",
+    "name": "Chethana",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--darsh-kedia",
+    "name": "Darsh Kedia",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--deshmukh-kundan",
+    "name": "Deshmukh Kundan",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--kushagra",
+    "name": "Kushagra",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--pratham-arora",
+    "name": "Pratham Arora",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--pugazhendi",
+    "name": "Pugazhendi",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--rishikesh-j",
+    "name": "Rishikesh J",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--rushil-kumar",
+    "name": "Rushil Kumar",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--sanath-koundinya",
+    "name": "Sanath Koundinya",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "book-club--hari-chandana",
+    "name": "Hari Chandana",
+    "organisation_id": "book-club",
+    "role": "Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/bookclub/contact.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "antaragni--vineet-kumar-sharma",
+    "name": "Vineet Kumar Sharma",
+    "organisation_id": "antaragni",
+    "role": "Festival Coordinator",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--harsh-vazirani",
+    "name": "Harsh Vazirani",
+    "organisation_id": "antaragni",
+    "role": "Festival Coordinator",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--adarsh-mishra",
+    "name": "Adarsh Mishra",
+    "organisation_id": "antaragni",
+    "role": "Events & Competitions",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--atharva-katiyar",
+    "name": "Atharva Katiyar",
+    "organisation_id": "antaragni",
+    "role": "Events & Competitions",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--vipin-yadav",
+    "name": "Vipin Yadav",
+    "organisation_id": "antaragni",
+    "role": "Marketing",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--manit-kapoor",
+    "name": "Manit Kapoor",
+    "organisation_id": "antaragni",
+    "role": "Marketing",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--anikeit-khanna",
+    "name": "Anikeit Khanna",
+    "organisation_id": "antaragni",
+    "role": "Marketing",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--abhishek-chhawai",
+    "name": "Abhishek Chhawai",
+    "organisation_id": "antaragni",
+    "role": "Media & Publicity",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--divyaman-pal",
+    "name": "Divyaman Pal",
+    "organisation_id": "antaragni",
+    "role": "Media & Publicity",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--anshul-ranka",
+    "name": "Anshul Ranka",
+    "organisation_id": "antaragni",
+    "role": "Show Management",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--yashasvi-mahajan",
+    "name": "Yashasvi Mahajan",
+    "organisation_id": "antaragni",
+    "role": "Finance",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--kulshreshth-chikara",
+    "name": "Kulshreshth Chikara",
+    "organisation_id": "antaragni",
+    "role": "Public Relations",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--kushagra-singh",
+    "name": "Kushagra Singh",
+    "organisation_id": "antaragni",
+    "role": "Public Relations",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--rohit-yadav",
+    "name": "Rohit Yadav",
+    "organisation_id": "antaragni",
+    "role": "Security",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--gundeep-singh",
+    "name": "Gundeep Singh",
+    "organisation_id": "antaragni",
+    "role": "Security",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--harshit",
+    "name": "Harshit",
+    "organisation_id": "antaragni",
+    "role": "Web & App",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--shubham",
+    "name": "Shubham",
+    "organisation_id": "antaragni",
+    "role": "Web & App",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--yash-jaiswal",
+    "name": "Yash Jaiswal",
+    "organisation_id": "antaragni",
+    "role": "Design",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--sai-sabyasachi-sial",
+    "name": "Sai Sabyasachi Sial",
+    "organisation_id": "antaragni",
+    "role": "Design",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "antaragni--utham-teja-sree",
+    "name": "Utham Teja Sree",
+    "organisation_id": "antaragni",
+    "role": "Design",
+    "term": "2026",
+    "verification_status": "listed_on_official_edition_page",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://antaragni.in/team",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Role applies to the 2026 festival edition, not necessarily future editions."
+  },
+  {
+    "id": "music-club--advaith-gs",
+    "name": "Advaith GS",
+    "organisation_id": "music-club",
+    "role": "Coordinator",
+    "term": "2025-26",
+    "verification_status": "past_term_confirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.linkedin.com/posts/mclubiitk_as-the-2025-26-tenure-of-music-club-iit-activity-7451819715020357632-yZYc",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Club announced the end of this tenure; not a current-contact lead."
+  },
+  {
+    "id": "music-club--akshat-swarup",
+    "name": "Akshat Swarup",
+    "organisation_id": "music-club",
+    "role": "Coordinator",
+    "term": "2025-26",
+    "verification_status": "past_term_confirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.linkedin.com/posts/mclubiitk_as-the-2025-26-tenure-of-music-club-iit-activity-7451819715020357632-yZYc",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Club announced the end of this tenure; not a current-contact lead."
+  },
+  {
+    "id": "music-club--dhruva-ranjan-datta",
+    "name": "Dhruva Ranjan Datta",
+    "organisation_id": "music-club",
+    "role": "Coordinator",
+    "term": "2025-26",
+    "verification_status": "past_term_confirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.linkedin.com/posts/mclubiitk_as-the-2025-26-tenure-of-music-club-iit-activity-7451819715020357632-yZYc",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Club announced the end of this tenure; not a current-contact lead."
+  },
+  {
+    "id": "music-club--prutha-vinay",
+    "name": "Prutha Vinay",
+    "organisation_id": "music-club",
+    "role": "Coordinator",
+    "term": "2025-26",
+    "verification_status": "past_term_confirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://www.linkedin.com/posts/mclubiitk_as-the-2025-26-tenure-of-music-club-iit-activity-7451819715020357632-yZYc",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Club announced the end of this tenure; not a current-contact lead."
   }
 ]
