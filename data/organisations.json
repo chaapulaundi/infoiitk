@@ -313,9 +313,31 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Anime and manga"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/iitkanisoc/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "book-club",
@@ -332,9 +354,17 @@
       {
         "url": "https://www.iitk.ac.in/bookclub/contact.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status.",
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
     "contact_routes": [
       {
         "type": "contact_page",
@@ -342,8 +372,20 @@
         "source_url": "https://www.iitk.ac.in/bookclub/contact.html",
         "checked_on": "2026-11-03",
         "notes": "The page provides a contact form."
+      },
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/bookclub_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
       }
-    ]
+    ],
+    "interests": [
+      "Books and reading"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory"
   },
   {
     "id": "dance-club",
@@ -356,9 +398,34 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Dance"
+    ],
+    "aliases": [
+      "Krazzy O've Sync",
+      "KOS"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/kos_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "debate-and-discussion-society",
@@ -371,9 +438,34 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Debating and discussion"
+    ],
+    "aliases": [
+      "Debating Society",
+      "DebSoc"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/debsoc.iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "design-and-animation-club",
@@ -386,9 +478,33 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Digital design and animation"
+    ],
+    "aliases": [
+      "Design & Animation Club"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/dnaiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "dramatics-club",
@@ -401,9 +517,33 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Theatre and street plays"
+    ],
+    "aliases": [
+      "Fursat Mandli"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/dramclub.iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "english-literary-society",
@@ -416,9 +556,33 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "English literature and writing"
+    ],
+    "aliases": [
+      "ELS"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/elsiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "fine-arts-club",
@@ -431,9 +595,31 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Fine arts"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/fac_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "film-club",
@@ -446,9 +632,38 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Filmmaking"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/filmclubiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      },
+      {
+        "type": "website",
+        "value": "https://linktr.ee/filmclubiitk",
+        "source_url": "https://linktr.ee/filmclubiitk",
+        "checked_on": "2026-11-04",
+        "notes": "Club link hub includes 2026–27 secretary nominations."
+      }
+    ]
   },
   {
     "id": "hindi-sahitya-sabha",
@@ -461,9 +676,33 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Hindi literature"
+    ],
+    "aliases": [
+      "HLS"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/hindisahityasabha.iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "humour-house",
@@ -476,9 +715,31 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Comedy"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/humourhouseiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "music-club",
@@ -491,9 +752,31 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Music"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/mclubiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "photography-club",
@@ -506,9 +789,38 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Photography"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/photoclubiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      },
+      {
+        "type": "website",
+        "value": "https://linktr.ee/photographyiitk",
+        "source_url": "https://linktr.ee/photographyiitk",
+        "checked_on": "2026-11-04",
+        "notes": "Club link hub lists social channels; current ownership not independently confirmed."
+      }
+    ]
   },
   {
     "id": "quiz-club",
@@ -521,9 +833,31 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
+      },
+      {
+        "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed in both the campus directory and council LinkedIn overview; current team and term need separate confirmation.",
+    "interests": [
+      "Quizzing"
+    ],
+    "aliases": [],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/qciitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "student-film-society",
@@ -536,9 +870,30 @@
       {
         "url": "https://mnciitk.github.io/club.html",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": "Cultural listing may be outdated; confirm current status."
+    "notes": "Listed separately in the JoSAA directory and older council club list, but omitted from the 16 named groups in the council LinkedIn overview; confirm present council affiliation.",
+    "interests": [
+      "Film screenings and appreciation"
+    ],
+    "aliases": [
+      "Students' Film Society",
+      "SFS"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/sfs_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "meraki-culinary-arts",
@@ -551,9 +906,30 @@
       {
         "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": null
+    "notes": "Listed by the campus directory and council LinkedIn overview; not in the older council club list.",
+    "interests": [
+      "Culinary arts"
+    ],
+    "aliases": [
+      "Meraki",
+      "Culinary Arts Society"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/culinaryarts.iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "noor-fashion-and-lifestyle-club",
@@ -566,9 +942,30 @@
       {
         "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
         "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04"
       }
     ],
-    "notes": null
+    "notes": "Listed by the campus directory and council LinkedIn overview; not in the older council club list.",
+    "interests": [
+      "Fashion and lifestyle"
+    ],
+    "aliases": [
+      "Noor",
+      "Fashion and Lifestyle Society"
+    ],
+    "scope_status": "listed_in_josaa_campus_directory",
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/noor_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-04",
+        "notes": "Listed by the JoSAA campus directory. Instagram page could not be read independently; verify availability."
+      }
+    ]
   },
   {
     "id": "students-gymkhana",
