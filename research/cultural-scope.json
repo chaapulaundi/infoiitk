@@ -1,0 +1,48 @@
+{
+  "title": "Cultural and media club scope",
+  "checked_on": "2026-11-04",
+  "coverage": "17 named organisations in JoSAA campus directory; cultural council and festival excluded from this count",
+  "organisation_ids": [
+    "anime-society",
+    "book-club",
+    "dance-club",
+    "debate-and-discussion-society",
+    "design-and-animation-club",
+    "dramatics-club",
+    "english-literary-society",
+    "film-club",
+    "fine-arts-club",
+    "hindi-sahitya-sabha",
+    "humour-house",
+    "meraki-culinary-arts",
+    "music-club",
+    "noor-fashion-and-lifestyle-club",
+    "photography-club",
+    "quiz-club",
+    "student-film-society"
+  ],
+  "source_notes": [
+    {
+      "url": "https://linktr.ee/JoSAA_IITK",
+      "note": "Lists 17 cultural and media groups with their Instagram links."
+    },
+    {
+      "url": "https://in.linkedin.com/company/media-and-cultural-council-iit-kanpur",
+      "note": "Claims 17 clubs and societies but explicitly names 16; Students' Film Society is omitted. Page may change."
+    },
+    {
+      "url": "https://mnciitk.github.io/club.html",
+      "note": "Older council list names 15 groups, including Students' Film Society, but predates the listing of Meraki and Noor."
+    },
+    {
+      "url": "https://www.iitk.ac.in/bookclub/contact.html",
+      "note": "Separately lists Book Club's team without an explicit current term; dated former teams provide historical context."
+    }
+  ],
+  "verification_notes": [
+    "Organisation list is a scoped working inventory, not proof that every group is active or the campus list is exhaustive.",
+    "Instagram targets were extracted from the directory links; profile contents could not be independently inspected.",
+    "Current individual office-bearers and contacts remain to be verified club by club.",
+    "Do not infer current appointments from undated pages, historical terms or scraped professional profiles."
+  ]
+}
