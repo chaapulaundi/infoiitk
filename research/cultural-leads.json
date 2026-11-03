@@ -1,0 +1,77 @@
+{
+  "purpose": "Research leads, not verified directory entries; never publish as current or guess masked contact details.",
+  "leads": [
+    {
+      "organisation_id": "anime-society",
+      "name": "Kaushal Mehra",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/profiles/kaushal-mehra/223432084",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party aggregator reports start April 2025 and still current; source may be stale. Seek club confirmation."
+    },
+    {
+      "organisation_id": "music-club",
+      "name": "Ananya Puthuraya",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/profiles/ananya-puthuraya/236092673",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party aggregator reports start April 2026. Seek an independent club announcement."
+    },
+    {
+      "organisation_id": "film-club",
+      "name": "Ibrahim Mukadam",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/profiles/ibrahim-mukadam/234166249",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party aggregator reports start April 2026. Seek an independent club announcement."
+    },
+    {
+      "organisation_id": "noor-fashion-and-lifestyle-club",
+      "name": "Nakul Patel",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/profiles/nakul-patel/222004752",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party aggregator reports start April 2025; current status unclear. Seek club confirmation."
+    },
+    {
+      "organisation_id": "english-literary-society",
+      "name": "Anika Gupta",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/companies/english-literary-society-iit-kanpur",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party directory lists a coordinator role without a clear term. Search independent sources; LinkedIn organisation membership alone does not verify role."
+    },
+    {
+      "organisation_id": "english-literary-society",
+      "name": "Aashvi Agarwal",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/companies/english-literary-society-iit-kanpur",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party directory lists a coordinator role without a clear term. Search independent sources; LinkedIn organisation membership alone does not verify role."
+    },
+    {
+      "organisation_id": "english-literary-society",
+      "name": "Kanishk Sharma",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/companies/english-literary-society-iit-kanpur",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party directory lists a coordinator role without a clear term. Search independent sources; LinkedIn organisation membership alone does not verify role."
+    },
+    {
+      "organisation_id": "photography-club",
+      "name": "Anshul Ranka",
+      "role": "Coordinator",
+      "source_url": "https://www.signalhire.com/profiles/anshul-ranka/235487099",
+      "checked_on": "2026-11-04",
+      "status": "unverified_lead",
+      "notes": "Third-party profile reports coordinator role; check identity and date, and do not assume current status."
+    }
+  ]
+}
