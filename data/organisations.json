@@ -743,5 +743,546 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "adventure-sports-club",
+    "name": "Adventure Sports Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/adventuresportsclubiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "archery-society",
+    "name": "Archery Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/archeryiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "bicycling-society",
+    "name": "Bicycling Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/bicyclingsociety_iitkanpur/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "boxing-society",
+    "name": "Boxing Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/iitkboxing/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "card-and-board-games-club",
+    "name": "Card and Board Games Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/cbgiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "chess-club",
+    "name": "Chess Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/chessiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "e-sports-club",
+    "name": "E Sports Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/esportsiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "kabaddi-society",
+    "name": "Kabaddi Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/kabaddi_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "shooting-society",
+    "name": "Shooting Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/shootingsocietyiitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "skating-club",
+    "name": "Skating Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/skatingclub_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "taekwondo-club",
+    "name": "Taekwondo Club",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/tkd_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "ultimate-frisbee-society",
+    "name": "Ultimate Frisbee Society",
+    "category": "others",
+    "organisation_type": "sports club or society",
+    "council": "Games and Sports Council",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": null,
+    "contact_routes": [
+      {
+        "type": "social",
+        "value": "https://www.instagram.com/ultimatefrisbee_iitk/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory; profile availability and current activity not independently confirmed."
+      }
+    ]
+  },
+  {
+    "id": "community-welfare-cell",
+    "name": "Community Welfare Cell",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      },
+      {
+        "url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://www.iitk.ac.in/cwc/team.html",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      },
+      {
+        "type": "email",
+        "value": "cwc_sg@iitk.ac.in",
+        "source_url": "https://www.iitk.ac.in/cwc/team.html",
+        "checked_on": "2026-11-03",
+        "notes": "Published on an undated team page bearing 2024 copyright; recheck."
+      }
+    ]
+  },
+  {
+    "id": "election-commission",
+    "name": "Election Commission",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://ec-iitk-web.web.app/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      }
+    ]
+  },
+  {
+    "id": "entrepreneurship-cell",
+    "name": "Entrepreneurship Cell",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://www.ecelliitk.org/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      }
+    ]
+  },
+  {
+    "id": "outreach-cell",
+    "name": "Outreach Cell",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://kaushik3012.github.io/outreach-cell-temp/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      }
+    ]
+  },
+  {
+    "id": "public-policy-and-opinion-cell",
+    "name": "Public Policy and Opinion Cell",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://ppociitk.in/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      }
+    ]
+  },
+  {
+    "id": "vox-populi",
+    "name": "Vox Populi",
+    "category": "others",
+    "organisation_type": "student cell or body",
+    "council": "Students' Gymkhana",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Listed in JoSAA campus directory; website availability and current office-bearers need verification.",
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://voxiitk.com/",
+        "source_url": "https://linktr.ee/JoSAA_IITK",
+        "checked_on": "2026-11-03",
+        "notes": "Linked by JoSAA campus directory."
+      }
+    ]
+  },
+  {
+    "id": "prakriti",
+    "name": "Prakriti",
+    "category": "others",
+    "organisation_type": "welfare wing",
+    "council": "Community Welfare Cell",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/index.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Wing listed by CWC; current status requires confirmation."
+  },
+  {
+    "id": "prayas",
+    "name": "Prayas",
+    "category": "others",
+    "organisation_type": "welfare wing",
+    "council": "Community Welfare Cell",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/index.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Wing listed by CWC; current status requires confirmation."
+  },
+  {
+    "id": "raktarpan",
+    "name": "Raktarpan",
+    "category": "others",
+    "organisation_type": "welfare wing",
+    "council": "Community Welfare Cell",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/index.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Wing listed by CWC; current status requires confirmation."
+  },
+  {
+    "id": "unmukt",
+    "name": "Unmukt",
+    "category": "others",
+    "organisation_type": "welfare wing",
+    "council": "Community Welfare Cell",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/index.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Wing listed by CWC; current status requires confirmation."
+  },
+  {
+    "id": "vivekananda-samiti",
+    "name": "Vivekananda Samiti",
+    "category": "others",
+    "organisation_type": "welfare wing",
+    "council": "Community Welfare Cell",
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.iitk.ac.in/cwc/index.html",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "Wing listed by CWC; current status requires confirmation."
+  },
+  {
+    "id": "students-placement-office",
+    "name": "Students' Placement Office",
+    "category": "others",
+    "organisation_type": "student placement office",
+    "council": null,
+    "status": "listed_on_source_current_status_unconfirmed",
+    "sources": [
+      {
+        "url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ],
+    "notes": "The office includes a student team; page does not state a term.",
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "spo@iitk.ac.in",
+        "source_url": "https://spo.iitk.ac.in/placement-coordinators",
+        "checked_on": "2026-11-03"
+      }
+    ]
   }
 ]
