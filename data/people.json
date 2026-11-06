@@ -5498,5 +5498,69 @@
       }
     ],
     "notes": "The club page has no term. An IITK publication identifies the same four as 'Batch 2025' coordinators, so present appointment is unconfirmed."
+  },
+  {
+    "id": "science-and-technology-council--aayush-jhawar",
+    "name": "Aayush Jhawar",
+    "organisation_id": "science-and-technology-council",
+    "role": "General Secretary",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/about/",
+        "checked_on": "2026-11-07"
+      }
+    ],
+    "notes": "Council about page lists this person and role. The page also separately dates the faculty advisor to 2026–27, but does not explicitly date this appointment."
+  },
+  {
+    "id": "science-and-technology-council--anurag-thakur",
+    "name": "Anurag Thakur",
+    "organisation_id": "science-and-technology-council",
+    "role": "Institute Secretary, Technical Affairs",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/about/",
+        "checked_on": "2026-11-07"
+      }
+    ],
+    "notes": "Council about page lists this person and role. The page also separately dates the faculty advisor to 2026–27, but does not explicitly date this appointment."
+  },
+  {
+    "id": "science-and-technology-council--shivansh-gupta",
+    "name": "Shivansh Gupta",
+    "organisation_id": "science-and-technology-council",
+    "role": "Institute Secretary, Events and Competitions",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/about/",
+        "checked_on": "2026-11-07"
+      }
+    ],
+    "notes": "Council about page lists this person and role. The page also separately dates the faculty advisor to 2026–27, but does not explicitly date this appointment."
+  },
+  {
+    "id": "science-and-technology-council--vivek-pawar",
+    "name": "Vivek Pawar",
+    "organisation_id": "science-and-technology-council",
+    "role": "Institute Secretary, Teams and Research",
+    "term": null,
+    "verification_status": "listed_on_source_term_unconfirmed",
+    "contacts": [],
+    "sources": [
+      {
+        "url": "https://sntiitk.co.in/about/",
+        "checked_on": "2026-11-07"
+      }
+    ],
+    "notes": "Council about page lists this person and role. The page also separately dates the faculty advisor to 2026–27, but does not explicitly date this appointment."
   }
 ]
