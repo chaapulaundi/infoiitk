@@ -1,0 +1,533 @@
+{
+  "organisation_id": "quiz-club",
+  "term": "2026–27",
+  "term_source": "User supplied the tenure with the screenshots.",
+  "provenance": "User-supplied screenshots; original social media post URL and independent confirmation unavailable.",
+  "checked_on": "2026-11-07",
+  "secretaries": [
+    {
+      "name": "Adiba",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(4).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Aditi",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(4).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(4).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Animesh",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(4).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Anjali",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(5).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Ansh",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(5).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(5).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Aradhya",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(5).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Arushi",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(6).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Budhish",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(6).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(6).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Debayu",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(6).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Dhairya",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(7).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Dhruv",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(7).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(7).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Ishita",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(7).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Kanishk",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(8).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Kushagra",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(8).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(8).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Medha",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(8).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Mohith",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(9).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Moksh",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(9).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(9).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Ojas",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(9).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Rohan",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(10).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Saarthak",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(10).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(10).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Sanidhya",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(10).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Sarthak",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190047).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Shlok",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190047).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190047).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    },
+    {
+      "name": "Shubham",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190047).png",
+        "position": "bottom right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Sreyan",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190053).png",
+        "position": "top left"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": "Suhani",
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190053).png",
+        "position": "top right"
+      },
+      "status": "transcribed_first_name_only",
+      "contacts": []
+    },
+    {
+      "name": null,
+      "role": "Secretary",
+      "role_evidence": "Screenshot heading; interpreted as applying to subsequent secretary-grid screenshots.",
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshots.",
+      "source": {
+        "type": "user_supplied_screenshot",
+        "filename": "image(20261106-190053).png",
+        "position": "bottom left"
+      },
+      "status": "name_obscured",
+      "contacts": []
+    }
+  ],
+  "other_team_members": [
+    {
+      "name": "Akmal Harif",
+      "source_filename": "image(2).png",
+      "role": null,
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshot.",
+      "status": "user_supplied_role_unspecified",
+      "contacts": []
+    },
+    {
+      "name": "Ira Srivastava",
+      "source_filename": "image(3).png",
+      "role": null,
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshot.",
+      "status": "user_supplied_role_unspecified",
+      "contacts": []
+    },
+    {
+      "name": "Sparsh Pradeep Jain",
+      "source_filename": "image(20261106-190001).png",
+      "role": null,
+      "term": "2026–27",
+      "term_evidence": "User stated tenure; not independently verified from screenshot.",
+      "status": "user_supplied_role_unspecified",
+      "contacts": []
+    }
+  ],
+  "notes": [
+    "First-name matches to existing leads have not been assumed to identify the same person.",
+    "Obscured name labels are retained as null; no inference from photos was used.",
+    "The card dates and fictional licence details are not treated as personal information or evidence of appointment dates."
+  ]
+}
