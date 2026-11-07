@@ -16,7 +16,28 @@
         "checked_on": "2026-11-07"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Design, build and fly model aircraft and drones through projects, workshops and competitions.",
+    "description_source": {
+      "url": "https://iitk.ac.in/aero-modelling-club",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "aeroclub_snt@iitk.ac.in",
+        "source_url": "https://boeing.techkriti.org/faq",
+        "checked_on": "2026-11-07",
+        "notes": "Published for workshop and event queries; use subject 'Query: YOUR QUERY HERE'."
+      },
+      {
+        "type": "email",
+        "value": "sntsecy@iitk.ac.in",
+        "source_url": "https://iitk.ac.in/aero-modelling-club",
+        "checked_on": "2026-11-07",
+        "notes": "SNT Council contact listed by IIT Kanpur."
+      }
+    ]
   },
   {
     "id": "astronomy-club",
@@ -43,8 +64,27 @@
         "source_url": "https://www.iitk.ac.in/astronomy-club",
         "checked_on": "2026-11-03",
         "notes": "Council secretary address listed by IIT Kanpur as a contact route for Astronomy Club; verify periodically."
+      },
+      {
+        "type": "email",
+        "value": "astroclub@iitk.ac.in",
+        "source_url": "https://astroclubiitk.in/",
+        "checked_on": "2026-11-07",
+        "notes": "Club website email; site may be dated."
+      },
+      {
+        "type": "website",
+        "value": "https://linktr.ee/astroclubiitk",
+        "source_url": "https://linktr.ee/astroclubiitk",
+        "checked_on": "2026-11-07",
+        "notes": "Club links including social channels."
       }
-    ]
+    ],
+    "description": "Explore the night sky through observing sessions, astrophotography, lectures and hands-on projects.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/astronomyclub/",
+      "checked_on": "2026-11-07"
+    }
   },
   {
     "id": "brain-and-cognitive-science-club",
@@ -59,7 +99,13 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Explore the intersection of machine learning, neuroscience and cognitive science.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/bcs/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": []
   },
   {
     "id": "electronics-club",
@@ -74,7 +120,21 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Learn electronics, embedded systems, IoT and signal processing through projects and workshops.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/electronicsclub/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "sntsecy@iitk.ac.in",
+        "source_url": "https://iitk.ac.in/electronics-club",
+        "checked_on": "2026-11-07",
+        "notes": "SNT Council contact listed by IIT Kanpur."
+      }
+    ]
   },
   {
     "id": "finance-and-analytics-club",
@@ -93,7 +153,13 @@
         "checked_on": "2026-11-07"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Explore quantitative finance and analytics through projects, talks and workshops.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/financeandanalytics/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": []
   },
   {
     "id": "game-development-club",
@@ -112,7 +178,21 @@
         "checked_on": "2026-11-07"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Create games through workshops, bootcamps and game jams; explore programming, design and art.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/gamedev/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://linktr.ee/gamedeviitk",
+        "source_url": "https://linktr.ee/gamedeviitk",
+        "checked_on": "2026-11-07",
+        "notes": "Club hub includes email, Discord and social links."
+      }
+    ]
   },
   {
     "id": "programming-club",
@@ -140,7 +220,12 @@
         "checked_on": "2026-11-03",
         "notes": "Club link hub includes social and email links."
       }
-    ]
+    ],
+    "description": "Learn and build across programming, algorithms, development, security and machine learning.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/clubs/programmingclub/",
+      "checked_on": "2026-11-07"
+    }
   },
   {
     "id": "robotics-club",
@@ -155,7 +240,28 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Build and program robots, with workshops, projects and support for beginners.",
+    "description_source": {
+      "url": "https://iitk.ac.in/robotics-club",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "roboticsclubiitkanpur@gmail.com",
+        "source_url": "https://roboticsclubiitk.github.io/",
+        "checked_on": "2026-11-07",
+        "notes": "Email listed on club website."
+      },
+      {
+        "type": "email",
+        "value": "sntsecy@iitk.ac.in",
+        "source_url": "https://iitk.ac.in/robotics-club",
+        "checked_on": "2026-11-07",
+        "notes": "SNT Council contact listed by IIT Kanpur."
+      }
+    ]
   },
   {
     "id": "descon-society",
@@ -215,7 +321,21 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "Build autonomous aerial vehicles and participate in robotics competitions.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/categories/teams/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "email",
+        "value": "aerial_snt@iitk.ac.in",
+        "source_url": "https://www.ariitk.in/contact",
+        "checked_on": "2026-11-07",
+        "notes": "Team contact listed on its website."
+      }
+    ]
   },
   {
     "id": "auv",
@@ -1030,7 +1150,21 @@
         "checked_on": "2026-11-03"
       }
     ],
-    "notes": null
+    "notes": null,
+    "description": "The student council supporting technical clubs, societies, teams, projects and competitions.",
+    "description_source": {
+      "url": "https://sntiitk.co.in/about/",
+      "checked_on": "2026-11-07"
+    },
+    "contact_routes": [
+      {
+        "type": "website",
+        "value": "https://linktr.ee/SnT_IITK",
+        "source_url": "https://linktr.ee/SnT_IITK",
+        "checked_on": "2026-11-07",
+        "notes": "Council social links."
+      }
+    ]
   },
   {
     "id": "media-and-cultural-council",
